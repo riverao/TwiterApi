@@ -1,5 +1,4 @@
 import sqlite3
-from Tweetclass import Tweet
 import tweepy
 import json
 import demoji
